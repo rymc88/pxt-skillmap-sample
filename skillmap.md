@@ -5,7 +5,7 @@
 ## interface
 * name: Learn to use MakeCode Arcade
 * description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
-* completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
+* completionUrl: 
 
 ### interface-activity1
 
@@ -14,13 +14,13 @@
 * description: Intro to our tutorial cards
 * tags: easy
 
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/interface/activity1 
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
+* url: tutorials/interface/activity1.md
+* imageUrl: 
 
 ## space
 * name: Design a Space Explorer
 * description: Let's explore the depths of space! We'll design a vessel for space travel, add some enemies, and populate the universe with planets.
-* completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/design-a-space-explorer.pdf
+* completionUrl: 
 
 ### space-activity1
 
@@ -30,8 +30,8 @@
 * tags: easy
 * next: space-activity2
 
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity1.png
+* url: https://github.com/rymc88/pxt-skillmap-sample/blob/main/tutorials/space/activity1.md
+* imageUrl: 
 
 ### space-activity2
 
@@ -41,8 +41,8 @@
 * tags: easy, projectiles, kinds
 * next: space-activity3
 
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity2
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity2.png
+* url: https://github.com/rymc88/pxt-skillmap-sample/blob/main/tutorials/space/activity2.md
+* imageUrl: 
 
 ### space-activity3
 
@@ -52,8 +52,8 @@
 * tags: easy, enemies, kinds
 * next: space-activity4
 
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity3
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity3.png
+* url: https://github.com/rymc88/pxt-skillmap-sample/blob/main/tutorials/space/activity3.md
+* imageUrl: 
 
 ### space-activity4
 
@@ -63,15 +63,15 @@
 * tags: intermediate, extensions
 
 
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity4
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity4.png
+* url: https://github.com/rymc88/pxt-skillmap-sample/blob/main/tutorials/space/activity4.md
+* imageUrl: 
 
 
 
 ## platformer
 * name: Learn to Make a Platformer
 * description: A skillmap that takes you through how to build a platformer with multiple levels.
-* completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/learn-to-make-a-platformer.pdf
+* completionUrl: 
 
 ### platformer-activity1
 
@@ -79,7 +79,7 @@
 * type: tutorial
 * description: Learn how to make a player character that can jump and move around a tilemap.
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/platformer/activity1
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/platformer/activity1.png
+* imageUrl: 
 * tags: easy
 * next: platformer-activity2
 
@@ -89,7 +89,7 @@
 * type: tutorial
 * description: Learn how to use the camera and add tile overlap events to give the player a way to win and lose.
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/platformer/activity2
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/platformer/activity2.png
+* imageUrl: 
 * tags: easy, tiles
 * next: platformer-activity3
 
@@ -99,7 +99,7 @@
 * type: tutorial
 * description: Learn how to add enemies to your game that follow the player.
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/platformer/activity3
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/platformer/activity3.png
+* imageUrl: 
 * tags: intermediate, overlaps
 * next: platformer-activity4
 
@@ -109,7 +109,7 @@
 * type: tutorial
 * description: Add a second level to your platformer using functions.
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/platformer/activity4
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/platformer/activity4.png
+* imageUrl: 
 * tags: intermediate, functions
 * next: platformer-activity5
 
@@ -119,5 +119,5 @@
 * type: tutorial
 * description: Add physics and AI to the enemies in your game.
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/platformer/activity5
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/platformer/activity5.png
+* imageUrl: 
 * tags: intermediate, AI, physics
